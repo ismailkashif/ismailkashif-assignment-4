@@ -1,0 +1,60 @@
+Microsoft Windows [Version 10.0.22631.3007]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\HP>systeminfo
+
+Host Name:                 DESKTOP-0SBMBL1
+OS Name:                   Microsoft Windows 11 Home
+OS Version:                10.0.22631 N/A Build 22631
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          HP
+Registered Organization:
+Product ID:                00325-96238-50818-AAOEM
+Original Install Date:     11/11/2023, 4:52:21 PM
+System Boot Time:          1/11/2024, 11:04:22 PM
+System Manufacturer:       HP
+System Model:              HP Laptop 15-bs1xx
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 142 Stepping 10 GenuineIntel ~2001 Mhz
+BIOS Version:              Insyde F.32, 11/23/2017
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC+05:00) Islamabad, Karachi
+Total Physical Memory:     8,109 MB
+Available Physical Memory: 882 MB
+Virtual Memory: Max Size:  11,053 MB
+Virtual Memory: Available: 1,319 MB
+Virtual Memory: In Use:    9,734 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\DESKTOP-0SBMBL1
+Hotfix(s):                 4 Hotfix(s) Installed.
+                           [01]: KB5033920
+                           [02]: KB5027397
+                           [03]: KB5034123
+                           [04]: KB5032393
+Network Card(s):           2 NIC(s) Installed.
+                           [01]: Realtek RTL8723DE 802.11b/g/n PCIe Adapter
+                                 Connection Name: Wi-Fi
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.18.1
+                                 IP address(es)
+                                 [01]: 192.168.18.13
+                                 [02]: fe80::e52d:e7bf:17ae:24c4
+                                 [03]: 2407:d000:d:457c:8599:af51:b5c7:909d
+                                 [04]: 2407:d000:d:457c:b1b9:d9e9:f236:f14e
+                           [02]: Realtek PCIe GbE Family Controller
+                                 Connection Name: Ethernet
+                                 Status:          Media disconnected
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: No
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes
+
+C:\Users\HP>
